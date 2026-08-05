@@ -1,0 +1,476 @@
+client_name,country,fiscal_year_end,engagement_status,hours_logged,entry_date
+Kestrel Audit,GB,2026-06-30,complete,53.6,2026-09-30
+Granite Audit Group,US,2026-12-31,review,84.1,2026-09-30
+Northgate Assurance,IE,2026-09-30,fieldwork,67.0,2026-12-31
+Delta Assurance,US,2026-03-31,planning,-5,2026-12-31
+Vantage Audit,CH,2026-06-30,review,13.0,2026-12-31
+Pinnacle Audit Co,US,2026-09-30,complete,56.4,2026-09-30
+Granite Audit Group,IE,2026-03-31,fieldwork,74.0,2026-06-30
+Kestrel Audit,DE,2026-03-31,review,17.7,2026-03-31
+Meridian CPAs,ES,2026-09-30,complete,95.6,2026-12-31
+Zenith Assurance,GB,2026-03-31,planning,54.8,2026-06-30
+Alpine Audit Partners,NL,2026-06-30,review,46.0,2026-06-30
+Summit Assurance,ES,2026-06-30,review,85.9,2026-03-31
+Granite Audit Group (UK),IT,2026-06-30,review,66.0,2026-06-30
+Northgate Assurance,GB,2026-06-30,fieldwork,70.0,2026-03-31
+Zenith Assurance,FR,2026-06-30,complete,85.8,2026-12-31
+Alpine Audit Partners (UK),CH,2026-12-31,review,14.6,2026-03-31
+Delta Assurance,IE,2026-12-31,complete,39.8,2026-09-30
+Delta Assurance,US,2026-12-31,complete,24.0,2026-06-30
+Meridian CPAs,,2026-06-30,review,42.9,2026-12-31
+Alpine Audit Partners,GB,2026-09-30,review,120.0,2026-03-31
+Everest Advisory,BE,,complete,2.2,2026-06-30
+Fairview CPAs,DE,Dec 31st,review,90.9,2026-03-31
+Oakfield LLP (US),IE,2026-06-30,review,67.5,2026-03-31
+Northgate Assurance,NL,2026-12-31,planning,105.7,2026-03-31
+Lakeshore Partners,ES,2026-06-30,fieldwork,28.7,2026-09-30
+Ironoak Assurance,NL,2026-03-31,review,80.6,2026-06-30
+Granite Audit Group (US),GB,2026-09-30,planning,8.1,2026-12-31
+Juniper & Frost,,2026-12-31,complete,83.5,2026-03-31
+Yellowfield LLP,BE,2026-12-31,review,60.9,2026-03-31
+Lakeshore Partners,IE,2026-09-30,review,95.0,2026-12-31
+Quarry & Stone,GB,2026-03-31,review,113.8,2026-03-31
+Pinnacle Audit Co,GB,2026-03-31,complete,9.3,2026-06-30
+Zenith Assurance (EU),FR,,review,83.6,2026-12-31
+Kestrel Audit,US,2026-03-31,review,115.0,2026-03-31
+Harborline LLP (UK),IT,2026-12-31,fieldwork,48.3,2026-03-31
+MERIDIAN CPAS,DE,2026-06-30,planning,53.1,2026-06-30
+UMBERLINE LLP (US),NL,2026-12-31,planning,3.8,2026-12-31
+Fairview CPAs (EU),IE,2026-12-31,review,67.6,2026-03-31
+Fairview CPAs,BE,2026-03-31,review,82.7,2026-06-30
+Fairview CPAs (US),BE,2026-06-30,planning,89.0,2026-09-30
+Quarry & Stone,GB,2026-03-31,review,113.8,2026-03-31
+Yellowfield LLP (EU),CH,2026-09-30,review,39.6,2026-09-30
+Alpine Audit Partners (US),,2026-06-30,complete,many,2026-09-30
+Vantage Audit (US),DE,2026-09-30,review,5.4,2026-09-30
+Oakfield LLP,FR,,complete,112.3,2026-12-31
+Vantage Audit,DE,2026-12-31,review,52.5,2026-12-31
+GRANITE AUDIT GROUP,NL,2026-09-30,planning,many,2026-12-31
+Everest Advisory,FR,2026-03-31,fieldwork,74.9,2026-06-30
+Oakfield LLP,BE,2026-06-30,review,13.6,2026-03-31
+Zenith Assurance,IE,2026-09-30,complete,88.2,2026-03-31
+Meridian CPAs,US,2026-06-30,review,61.5,2026-09-30
+Oakfield LLP,BE,2026-03-31,fieldwork,16.6,2026-06-30
+Westbrook CPAs (EU),NL,2026-03-31,complete,89.7,2026-06-30
+Ironoak Assurance (UK),ES,2026-03-31,planning,96.2,2026-09-30
+Northgate Assurance,,2026-03-31,complete,5.6,2026-06-30
+Everest Advisory,IE,2026-06-30,planning,41.1,2026-12-31
+Vantage Audit,BE,2026-06-30,planning,19.0,2026-12-31
+Quarry & Stone,US,,complete,109.2,2026-12-31
+Kestrel Audit,US,2026-06-30,fieldwork,91.9,2026-12-31
+Juniper & Frost,FR,2026-09-30,complete,79.3,2026-09-30
+Summit Assurance,DE,2026-12-31,planning,18.3,2026-03-31
+Beacon & Co,FR,2026-09-30,planning,77.0,2026-12-31
+Pinnacle Audit Co (UK),ES,2026-12-31,review,29.6,2026-09-30
+  Westbrook CPAs (EU) ,DE,2026-03-31,review,85.8,2026-09-30
+Yellowfield LLP,IE,2026-09-30,fieldwork,99.0,2026-09-30
+Westbrook CPAs,BE,2026-12-31,planning,88.1,2026-06-30
+Summit Assurance,FR,2026-06-30,planning,67.9,2026-12-31
+Alpine Audit Partners,IT,2026-03-31,planning,38.5,2026-06-30
+  Northgate Assurance ,NL,2026-12-31,planning,105.7,2026-03-31
+Umberline LLP,IE,2026-09-30,fieldwork,22.1,2026-09-30
+Quarry & Stone (EU),GB,2026-03-31,review,17.6,2026-12-31
+Everest Advisory (UK),CH,2026-12-31,review,70.1,2026-03-31
+Juniper & Frost,NL,2026-03-31,planning,43.3,2026-12-31
+Vantage Audit,IE,2026-03-31,review,many,2026-12-31
+Westbrook CPAs (EU),GB,N/A,complete,106.1,2026-09-30
+Alpine Audit Partners,US,2026-06-30,planning,-5,2026-09-30
+Thornton & Vale (US),FR,31-06-2026,complete,102.8,2026-09-30
+Alpine Audit Partners,DE,2026-09-30,complete,90.7,2026-06-30
+Westbrook CPAs,DE,2026-12-31,complete,86.4,2026-09-30
+Quarry & Stone,IE,2026-03-31,fieldwork,30.7,2026-03-31
+Everest Advisory (EU),IT,2026-03-31,complete,0.6,2026-12-31
+Ironoak Assurance,BE,2026-09-30,review,91.5,2026-12-31
+Cedarwood LLP,BE,2026-06-30,planning,64.5,2026-03-31
+Fairview CPAs,CH,,fieldwork,58.6,2026-09-30
+Summit Assurance (EU),GB,2026-09-30,review,60.1,2026-09-30
+Alpine Audit Partners,,2026-09-30,complete,50.1,2026-12-31
+Thornton & Vale,BE,31-06-2026,review,12.4,2026-03-31
+Westbrook CPAs (EU),BE,2026-13-45,fieldwork,18.3,2026-03-31
+Everest Advisory,GB,2026-03-31,fieldwork,85.4,2026-03-31
+Oakfield LLP,DE,2026-06-30,review,57.9,2026-09-30
+Vantage Audit,ES,2026-03-31,complete,84.4,2026-12-31
+Thornton & Vale,FR,2026-09-30,fieldwork,84.7,2026-06-30
+Zenith Assurance (US),FR,2026-09-30,planning,38.7,2026-03-31
+Oakfield LLP,NL,2026-03-31,fieldwork,many,2026-12-31
+Juniper & Frost,,2026-12-31,fieldwork,31.8,2026-12-31
+Meridian CPAs,FR,2026-03-31,complete,31.2,2026-06-30
+Oakfield LLP,GB,2026-03-31,complete,60.7,2026-09-30
+Meridian CPAs,DE,2026-06-30,planning,53.1,2026-06-30
+Cedarwood LLP,,2026-03-31,complete,53.1,2026-09-30
+Ironoak Assurance,CH,2026-06-30,fieldwork,13.7,2026-09-30
+Ironoak Assurance (UK),DE,2026-03-31,review,76.1,2026-06-30
+Zenith Assurance,BE,2026-06-30,fieldwork,94.1,2026-03-31
+Zenith Assurance (UK),NL,2026-13-45,planning,54.7,2026-12-31
+Zenith Assurance,CH,2026-03-31,complete,,2026-12-31
+Everest Advisory,,2026-09-30,review,20.1,2026-12-31
+Yellowfield LLP (EU),ES,2026-03-31,review,109.6,2026-03-31
+Beacon & Co,BE,2026-03-31,review,107.0,2026-06-30
+Beacon & Co (EU),CH,2026-09-30,planning,105.5,2026-03-31
+Delta Assurance,,2026-06-30,complete,78.6,2026-09-30
+Thornton & Vale,US,2026-03-31,review,22.8,2026-06-30
+Pinnacle Audit Co (EU),CH,2026-06-30,planning,22.9,2026-03-31
+Alpine Audit Partners,DE,Dec 31st,planning,75.0,2026-06-30
+HARBORLINE LLP,FR,2026-12-31,complete,35.9,2026-12-31
+Quarry & Stone,FR,2026-12-31,planning,108.3,2026-03-31
+Kestrel Audit,IT,2026-09-30,fieldwork,52.1,2026-12-31
+Juniper & Frost,NL,2026-13-45,complete,103.7,2026-06-30
+Yellowfield LLP (EU),IE,2026-03-31,fieldwork,26.9,2026-12-31
+Alpine Audit Partners (US),,31/12/2026,review,28.6,2026-09-30
+Harborline LLP,CH,2026-13-45,fieldwork,95.8,2026-12-31
+Beacon & Co,FR,2026-09-30,review,103.0,2026-12-31
+Summit Assurance,ES,2026-09-30,complete,33.6,2026-06-30
+Granite Audit Group (EU),CH,2026-06-30,planning,35.5,2026-06-30
+Umberline LLP (US),NL,2026-12-31,planning,3.8,2026-12-31
+Granite Audit Group (US),,2026-09-30,fieldwork,33.4,2026-12-31
+Pinnacle Audit Co,FR,2026-06-30,fieldwork,62.5,2026-03-31
+Vantage Audit,IT,2026-12-31,planning,87.4,2026-12-31
+Juniper & Frost,BE,2026-09-30,planning,83.6,2026-06-30
+Everest Advisory (UK),ES,2026-03-31,complete,38.4,2026-12-31
+Quarry & Stone (UK),DE,2026-03-31,review,68.3,2026-09-30
+Kestrel Audit,,2026-09-30,complete,113.4,2026-12-31
+Delta Assurance (UK),ES,2026-12-31,review,9.0,2026-12-31
+Beacon & Co (UK),US,2026-09-30,review,114.9,2026-09-30
+Riverbend CPAs (US),CH,2026-09-30,fieldwork,84.6,2026-06-30
+Everest Advisory,ES,2026-03-31,fieldwork,102.3,2026-03-31
+Yellowfield LLP (US),FR,2026-06-30,review,47.7,2026-12-31
+Umberline LLP,,2026-12-31,complete,77.7,2026-12-31
+Northgate Assurance,GB,2026-06-30,planning,67.0,2026-09-30
+Harborline LLP (US),IE,2026-09-30,planning,25.4,2026-09-30
+Riverbend CPAs,GB,2026-06-30,complete,77.1,2026-03-31
+Everest Advisory,BE,2026-12-31,complete,79.8,2026-09-30
+Zenith Assurance,ES,2026-09-30,planning,110.1,2026-12-31
+Beacon & Co (EU),NL,2026-03-31,planning,93.8,2026-06-30
+Beacon & Co,BE,2026-06-30,review,68.4,2026-09-30
+THORNTON & VALE,IT,2026-06-30,review,99.7,2026-12-31
+Quarry & Stone (UK),ES,2026-03-31,complete,22.4,2026-09-30
+Pinnacle Audit Co (US),ES,2026-09-30,planning,35.4,2026-03-31
+Harborline LLP,GB,2026-12-31,complete,87.3,2026-12-31
+Alpine Audit Partners (US),IE,2026-03-31,fieldwork,48.1,2026-03-31
+Alpine Audit Partners,CH,2026-03-31,fieldwork,81.3,2026-06-30
+Zenith Assurance (US),NL,2026-03-31,complete,32.3,2026-06-30
+Northgate Assurance,GB,2026-06-30,planning,90.8,2026-03-31
+Granite Audit Group,IT,2026-03-31,fieldwork,64.7,2026-09-30
+CEDARWOOD LLP,CH,2026-09-30,planning,43.1,2026-12-31
+Vantage Audit (US),CH,2026-03-31,review,23.9,2026-12-31
+Ironoak Assurance (EU),IT,2026-09-30,planning,32.1,2026-06-30
+Lakeshore Partners (UK),IE,2026-09-30,fieldwork,28.4,2026-03-31
+Pinnacle Audit Co,GB,2026-13-45,fieldwork,many,2026-12-31
+Thornton & Vale,ES,2026-12-31,complete,22.2,2026-03-31
+Thornton & Vale,DE,2026-09-30,review,45.6,2026-06-30
+Yellowfield LLP,NL,2026-09-30,complete,11.2,2026-03-31
+Harborline LLP (US),IE,2026-09-30,planning,25.4,2026-09-30
+Oakfield LLP (EU),GB,2026-03-31,review,82.6,2026-12-31
+OAKFIELD LLP (US),IE,2026-06-30,review,67.5,2026-03-31
+Everest Advisory,CH,2026-03-31,complete,104.2,2026-12-31
+Westbrook CPAs,BE,2026-03-31,review,113.9,2026-06-30
+Riverbend CPAs (UK),,2026-06-30,complete,51.1,2026-09-30
+Thornton & Vale,DE,2026-09-30,review,50.2,2026-09-30
+Yellowfield LLP,IE,2026-03-31,planning,60.8,2026-03-31
+Granite Audit Group,US,2026-12-31,review,84.1,2026-09-30
+Pinnacle Audit Co,ES,2026-13-45,fieldwork,2.6,2026-03-31
+Cedarwood LLP,BE,2026-12-31,fieldwork,47.3,2026-06-30
+Zenith Assurance,DE,2026-03-31,complete,4.9,2026-09-30
+Everest Advisory,BE,2026-06-30,complete,many,2026-06-30
+Oakfield LLP,CH,2026-06-30,review,112.3,2026-03-31
+Meridian CPAs,DE,2026-12-31,complete,92.5,2026-12-31
+Westbrook CPAs (EU),BE,2026-12-31,planning,58.7,2026-09-30
+Granite Audit Group,NL,2026-09-30,planning,many,2026-12-31
+Ironoak Assurance,US,2026-12-31,planning,119.8,2026-12-31
+Oakfield LLP,CH,2026-06-30,fieldwork,21.3,2026-09-30
+Ironoak Assurance (UK),,2026-03-31,review,105.9,2026-09-30
+Granite Audit Group,ES,2026-09-30,review,56.4,2026-12-31
+Everest Advisory,ES,2026-12-31,fieldwork,96.8,2026-03-31
+Cedarwood LLP,BE,2026-12-31,fieldwork,47.3,2026-06-30
+Meridian CPAs,CH,2026-06-30,complete,66.0,2026-06-30
+Quarry & Stone (UK),NL,2026-06-30,planning,76.2,2026-06-30
+Thornton & Vale,IT,2026-06-30,review,99.7,2026-12-31
+Fairview CPAs,ES,2026-09-30,complete,25.8,2026-03-31
+Riverbend CPAs (EU),DE,2026-12-31,review,112.0,2026-12-31
+Ironoak Assurance,DE,2026-03-31,review,82.0,2026-12-31
+ALPINE AUDIT PARTNERS (US),CH,2026-12-31,review,91.6,2026-03-31
+Cedarwood LLP,IT,2026-03-31,complete,92.4,2026-12-31
+Thornton & Vale,IE,2026-06-30,planning,83.2,2026-09-30
+Zenith Assurance,DE,2026-03-31,complete,4.9,2026-09-30
+Juniper & Frost,,2026-12-31,complete,14.1,2026-03-31
+Granite Audit Group (EU),CH,2026-06-30,planning,35.5,2026-06-30
+Harborline LLP (US),NL,N/A,review,12.1,2026-03-31
+Granite Audit Group (UK),US,2026-09-30,planning,47.7,2026-09-30
+Yellowfield LLP (US),NL,2026-03-31,complete,80.6,2026-06-30
+Delta Assurance,FR,2026-12-31,fieldwork,67.5,2026-06-30
+Vantage Audit,ES,2026-06-30,planning,56.6,2026-06-30
+Juniper & Frost,DE,2026-03-31,planning,95.0,2026-03-31
+Umberline LLP (US),IT,2026-03-31,planning,113.2,2026-12-31
+Lakeshore Partners,CH,2026-03-31,complete,92.4,2026-12-31
+Yellowfield LLP,BE,2026-06-30,planning,46.5,2026-06-30
+Pinnacle Audit Co,IT,2026-03-31,review,92.8,2026-12-31
+Quarry & Stone,CH,Dec 31st,planning,81.6,2026-06-30
+Alpine Audit Partners,NL,2026-06-30,planning,11.2,2026-12-31
+Thornton & Vale,GB,2026-03-31,review,83.8,2026-12-31
+Lakeshore Partners,FR,2026-06-30,planning,98.7,2026-12-31
+Pinnacle Audit Co,CH,2026-12-31,complete,109.3,2026-12-31
+Granite Audit Group,DE,2026-06-30,complete,0.0,2026-06-30
+Quarry & Stone,CH,2026-12-31,planning,33.6,2026-12-31
+Granite Audit Group,CH,2026-03-31,complete,22.8,2026-12-31
+Cedarwood LLP,FR,2026-12-31,planning,4.3,2026-12-31
+Quarry & Stone (EU),,2026-09-30,review,49.8,2026-09-30
+Juniper & Frost,IE,2026-06-30,complete,89.2,2026-09-30
+Thornton & Vale,IT,2026-12-31,planning,49.4,2026-12-31
+Pinnacle Audit Co,CH,2026-09-30,review,38.3,2026-03-31
+Harborline LLP,IE,2026-09-30,complete,95.1,2026-03-31
+DELTA ASSURANCE,US,2026-12-31,complete,24.0,2026-06-30
+Pinnacle Audit Co,FR,2026-06-30,complete,73.4,2026-09-30
+Granite Audit Group,IE,2026-09-30,fieldwork,95.2,2026-03-31
+Thornton & Vale,IE,2026-12-31,fieldwork,15.9,2026-12-31
+  Zenith Assurance ,,2026-06-30,fieldwork,61.1,2026-09-30
+NORTHGATE ASSURANCE,IT,2026-12-31,planning,26.5,2026-12-31
+Lakeshore Partners,US,2026-09-30,planning,78.9,2026-06-30
+Westbrook CPAs,,2026-06-30,fieldwork,65.3,2026-03-31
+Kestrel Audit,IT,2026-06-30,planning,9.5,2026-03-31
+Vantage Audit,BE,2026-09-30,fieldwork,115.6,2026-06-30
+Harborline LLP (US),ES,2026-09-30,fieldwork,9.0,2026-12-31
+Oakfield LLP,NL,2026-12-31,planning,45.5,2026-09-30
+Northgate Assurance,IE,2026-09-30,complete,37.5,2026-06-30
+Zenith Assurance (UK),IT,2026-06-30,review,68.8,2026-09-30
+Pinnacle Audit Co,US,2026-09-30,review,36.2,2026-12-31
+OAKFIELD LLP,CH,2026-06-30,review,112.3,2026-03-31
+Alpine Audit Partners,BE,2026-12-31,complete,68.0,2026-12-31
+Pinnacle Audit Co,US,2026-09-30,review,82.6,2026-03-31
+Delta Assurance,GB,2026-03-31,complete,119.0,2026-09-30
+VANTAGE AUDIT,US,2026-09-30,review,32.6,2026-12-31
+Fairview CPAs (US),,N/A,complete,27.8,2026-06-30
+Ironoak Assurance,GB,2026-09-30,review,82.3,2026-06-30
+Beacon & Co (EU),FR,2026-03-31,complete,29.3,2026-12-31
+Yellowfield LLP,IT,2026-03-31,review,70.7,2026-03-31
+Alpine Audit Partners,CH,2026-03-31,fieldwork,81.3,2026-06-30
+Delta Assurance,ES,2026-06-30,review,11.5,2026-09-30
+Alpine Audit Partners,FR,31-06-2026,complete,113.6,2026-06-30
+Granite Audit Group,ES,2026-12-31,fieldwork,,2026-06-30
+Beacon & Co,IE,2026-12-31,planning,106.8,2026-12-31
+Juniper & Frost (UK),IE,2026-09-30,complete,90.4,2026-03-31
+  Lakeshore Partners ,FR,2026-06-30,complete,-5,2026-03-31
+Ironoak Assurance (EU),IT,2026-09-30,planning,32.1,2026-06-30
+Fairview CPAs (US),BE,2026-12-31,planning,8.9,2026-12-31
+Beacon & Co,IE,Dec 31st,review,59.0,2026-12-31
+Umberline LLP,IT,2026-09-30,planning,113.4,2026-03-31
+Harborline LLP,CH,2026-06-30,complete,91.1,2026-03-31
+Vantage Audit,,2026-09-30,review,103.3,2026-12-31
+Zenith Assurance (US),US,2026-12-31,complete,116.0,2026-03-31
+Riverbend CPAs (US),CH,2026-09-30,fieldwork,84.6,2026-06-30
+Quarry & Stone (UK),DE,2026-03-31,review,68.3,2026-09-30
+Quarry & Stone,ES,2026-03-31,planning,84.1,2026-03-31
+  Meridian CPAs (UK) ,FR,2026-06-30,planning,99.5,2026-12-31
+Summit Assurance (UK),,2026-06-30,fieldwork,50.0,2026-12-31
+Fairview CPAs,ES,2026-09-30,complete,25.8,2026-03-31
+Cedarwood LLP,IT,2026-03-31,complete,92.4,2026-12-31
+Zenith Assurance,NL,2026-03-31,review,118.0,2026-12-31
+Thornton & Vale (US),,2026-09-30,complete,91.2,2026-09-30
+Everest Advisory,FR,2026-06-30,planning,26.6,2026-12-31
+Quarry & Stone,GB,N/A,review,many,2026-03-31
+Harborline LLP,NL,2026-03-31,planning,94.8,2026-09-30
+Zenith Assurance,IE,2026-09-30,complete,88.2,2026-03-31
+Beacon & Co,FR,2026-06-30,planning,98.7,2026-06-30
+Beacon & Co,,2026-12-31,fieldwork,113.0,2026-03-31
+FAIRVIEW CPAS (EU),IE,2026-12-31,review,67.6,2026-03-31
+Lakeshore Partners (US),CH,2026-06-30,fieldwork,,2026-06-30
+Cedarwood LLP,FR,Dec 31st,planning,19.7,2026-03-31
+Granite Audit Group,ES,,complete,98.7,2026-03-31
+Meridian CPAs,DE,2026-03-31,planning,1.0,2026-03-31
+Granite Audit Group,IE,2026-03-31,fieldwork,74.0,2026-06-30
+Delta Assurance,IT,2026-06-30,fieldwork,30.3,2026-09-30
+Delta Assurance (UK),GB,2026-03-31,complete,100.7,2026-03-31
+Meridian CPAs (UK),FR,2026-06-30,planning,99.5,2026-12-31
+Harborline LLP,FR,2026-12-31,complete,35.9,2026-12-31
+Cedarwood LLP,GB,2026-03-31,planning,53.9,2026-03-31
+Delta Assurance,BE,2026-12-31,complete,25.2,2026-06-30
+Alpine Audit Partners (US),CH,2026-12-31,review,91.6,2026-03-31
+Ironoak Assurance,,2026-06-30,review,56.2,2026-06-30
+Vantage Audit,BE,2026-09-30,planning,14.8,2026-06-30
+  Yellowfield LLP ,NL,2026-06-30,complete,33.0,2026-12-31
+Summit Assurance,IE,2026-09-30,complete,87.9,2026-06-30
+Yellowfield LLP,GB,2026-09-30,review,31.6,2026-12-31
+Oakfield LLP,IE,2026-09-30,planning,100.5,2026-12-31
+Juniper & Frost,ES,2026-12-31,review,77.2,2026-06-30
+Summit Assurance,GB,2026-09-30,planning,79.4,2026-09-30
+Pinnacle Audit Co,FR,2026-06-30,fieldwork,62.5,2026-03-31
+Northgate Assurance,GB,2026-06-30,planning,90.8,2026-03-31
+Fairview CPAs,DE,2026-12-31,review,15.2,2026-09-30
+Granite Audit Group,IT,2026-03-31,review,110.6,2026-09-30
+Fairview CPAs (US),CH,2026-09-30,fieldwork,76.5,2026-09-30
+Fairview CPAs,NL,2026-09-30,planning,67.7,2026-09-30
+Vantage Audit,NL,2026-06-30,complete,39.8,2026-06-30
+Summit Assurance (EU),FR,2026-12-31,planning,56.6,2026-06-30
+Westbrook CPAs (UK),IT,2026-06-30,fieldwork,64.0,2026-06-30
+Delta Assurance,GB,2026-06-30,planning,5.8,2026-12-31
+Harborline LLP,DE,2026-12-31,complete,66.9,2026-03-31
+Oakfield LLP (EU),DE,2026-12-31,planning,97.0,2026-09-30
+Juniper & Frost,,2026-12-31,complete,83.5,2026-03-31
+THORNTON & VALE (US),,2026-09-30,complete,91.2,2026-09-30
+Umberline LLP,IT,2026-03-31,complete,12.8,2026-09-30
+Vantage Audit,US,2026-03-31,fieldwork,35.8,2026-06-30
+Northgate Assurance,IE,2026-03-31,review,35.2,2026-09-30
+Kestrel Audit (US),CH,2026-06-30,complete,94.3,2026-06-30
+Westbrook CPAs (EU),CH,2026-09-30,review,50.7,2026-12-31
+Juniper & Frost,CH,2026-12-31,fieldwork,74.1,2026-12-31
+IRONOAK ASSURANCE,BE,2026-09-30,review,91.5,2026-12-31
+Northgate Assurance,,2026-03-31,review,9.5,2026-03-31
+Summit Assurance,US,,complete,67.9,2026-12-31
+Umberline LLP,FR,2026-09-30,fieldwork,42.3,2026-06-30
+Fairview CPAs,CH,2026-12-31,complete,89.4,2026-03-31
+Alpine Audit Partners,ES,2026-09-30,complete,88.3,2026-12-31
+Pinnacle Audit Co (US),IT,2026-03-31,planning,47.8,2026-09-30
+Pinnacle Audit Co (EU),ES,2026-09-30,fieldwork,110.3,2026-12-31
+Granite Audit Group,FR,2026-06-30,complete,81.3,2026-06-30
+Beacon & Co,IT,2026-06-30,planning,,2026-12-31
+Beacon & Co,DE,2026-03-31,planning,66.5,2026-03-31
+Thornton & Vale,NL,2026-09-30,review,76.8,2026-03-31
+Fairview CPAs,ES,2026-06-30,fieldwork,106.4,2026-06-30
+Fairview CPAs (UK),US,2026-06-30,complete,119.5,2026-06-30
+Cedarwood LLP (US),IT,2026-09-30,fieldwork,98.5,2026-03-31
+Beacon & Co,FR,2026-06-30,planning,98.7,2026-06-30
+Everest Advisory,,2026-03-31,planning,70.9,2026-09-30
+  Juniper & Frost ,,2026-03-31,complete,80.5,2026-09-30
+Yellowfield LLP (EU),CH,2026-09-30,review,39.6,2026-09-30
+Northgate Assurance,BE,2026-03-31,fieldwork,71.5,2026-12-31
+Kestrel Audit (US),IT,2026-03-31,complete,97.1,2026-06-30
+Pinnacle Audit Co,GB,2026-13-45,fieldwork,many,2026-12-31
+Oakfield LLP,NL,2026-06-30,planning,27.6,2026-03-31
+Zenith Assurance,,2026-06-30,fieldwork,61.1,2026-09-30
+Cedarwood LLP,CH,2026-09-30,planning,43.1,2026-12-31
+Ironoak Assurance,GB,2026-03-31,fieldwork,104.3,2026-06-30
+Granite Audit Group,US,2026-06-30,planning,30.0,2026-06-30
+Cedarwood LLP,DE,2026-12-31,fieldwork,18.9,2026-06-30
+Westbrook CPAs,NL,2026-03-31,review,64.3,2026-03-31
+Granite Audit Group (US),,2026-09-30,complete,14.5,2026-06-30
+Meridian CPAs,IT,2026-09-30,planning,13.7,2026-03-31
+Summit Assurance,BE,2026-03-31,complete,61.2,2026-12-31
+Thornton & Vale (US),NL,2026-06-30,complete,23.3,2026-09-30
+Granite Audit Group,IE,2026-09-30,fieldwork,94.2,2026-03-31
+Granite Audit Group (US),IE,2026-03-31,fieldwork,83.3,2026-06-30
+Meridian CPAs (US),IT,2026-09-30,planning,24.7,2026-12-31
+Fairview CPAs,IT,2026-03-31,fieldwork,101.3,2026-12-31
+  Vantage Audit ,IT,2026-12-31,planning,87.4,2026-12-31
+DELTA ASSURANCE,IT,2026-06-30,fieldwork,30.3,2026-09-30
+Kestrel Audit,US,2026-03-31,review,115.0,2026-03-31
+Juniper & Frost (EU),FR,2026-09-30,fieldwork,65.6,2026-12-31
+Yellowfield LLP,BE,2026-06-30,fieldwork,88.9,2026-03-31
+Granite Audit Group (UK),FR,2026-09-30,review,57.8,2026-09-30
+Beacon & Co,GB,2026-03-31,fieldwork,57.8,2026-09-30
+Juniper & Frost,NL,2026-12-31,fieldwork,71.3,2026-12-31
+Lakeshore Partners,IT,2026-09-30,planning,99.5,2026-06-30
+Lakeshore Partners,FR,2026-06-30,complete,-5,2026-03-31
+Summit Assurance (US),IE,2026-12-31,review,58.7,2026-06-30
+Harborline LLP (EU),US,2026-09-30,review,26.2,2026-06-30
+Riverbend CPAs (US),FR,2026-12-31,planning,69.5,2026-03-31
+Thornton & Vale,US,2026-09-30,review,35.5,2026-03-31
+Ironoak Assurance,IT,2026-09-30,review,many,2026-03-31
+BEACON & CO (UK),US,2026-03-31,review,54.1,2026-09-30
+Oakfield LLP (EU),ES,2026-12-31,complete,22.5,2026-06-30
+Summit Assurance,BE,2026-06-30,complete,44.2,2026-12-31
+Meridian CPAs,IT,2026-03-31,fieldwork,95.9,2026-12-31
+Beacon & Co (UK),US,2026-03-31,review,54.1,2026-09-30
+Juniper & Frost,,2026-03-31,complete,80.5,2026-09-30
+Alpine Audit Partners,ES,2026-06-30,fieldwork,39.8,2026-09-30
+Granite Audit Group,IE,,review,117.3,2026-06-30
+Westbrook CPAs (US),NL,2026-09-30,fieldwork,110.2,2026-09-30
+Delta Assurance (US),BE,2026-12-31,fieldwork,71.9,2026-12-31
+Yellowfield LLP,,2026-03-31,complete,40.9,2026-06-30
+Alpine Audit Partners (US),IE,2026-03-31,fieldwork,48.1,2026-03-31
+Northgate Assurance,ES,2026-03-31,fieldwork,16.8,2026-06-30
+Vantage Audit,DE,2026-12-31,review,4.0,2026-06-30
+Granite Audit Group,DE,2026-12-31,fieldwork,76.0,2026-09-30
+Ironoak Assurance,IT,2026-03-31,planning,41.5,2026-06-30
+Juniper & Frost (US),CH,2026-06-30,planning,17.0,2026-06-30
+Westbrook CPAs,FR,2026-03-31,complete,68.1,2026-09-30
+Yellowfield LLP,BE,2026-12-31,planning,101.7,2026-09-30
+Pinnacle Audit Co,BE,2026-06-30,fieldwork,74.0,2026-06-30
+Cedarwood LLP,BE,2026-03-31,planning,72.9,2026-09-30
+Westbrook CPAs (EU),DE,2026-03-31,review,85.8,2026-09-30
+Beacon & Co,,2026-09-30,fieldwork,49.4,2026-03-31
+Fairview CPAs,BE,2026-06-30,fieldwork,90.0,2026-06-30
+Beacon & Co (EU),IE,2026-12-31,complete,22.8,2026-12-31
+Beacon & Co (EU),ES,2026-03-31,review,86.5,2026-03-31
+Westbrook CPAs,BE,N/A,planning,81.1,2026-03-31
+Fairview CPAs,DE,2026-09-30,fieldwork,87.0,2026-03-31
+Oakfield LLP (EU),GB,2026-06-30,planning,98.0,2026-03-31
+Yellowfield LLP,NL,2026-06-30,complete,33.0,2026-12-31
+Quarry & Stone,FR,2026-12-31,review,100.7,2026-06-30
+Meridian CPAs (EU),CH,2026-06-30,planning,12.7,2026-09-30
+Oakfield LLP,NL,2026-09-30,fieldwork,54.1,2026-06-30
+Quarry & Stone,ES,2026-12-31,complete,82.6,2026-09-30
+Summit Assurance (UK),,2026-06-30,planning,104.0,2026-09-30
+Oakfield LLP,DE,2026-09-30,fieldwork,12.1,2026-12-31
+Zenith Assurance,DE,2026-06-30,complete,9.1,2026-12-31
+Riverbend CPAs,NL,2026-09-30,planning,-5,2026-06-30
+Riverbend CPAs (UK),US,2026-06-30,review,105.2,2026-03-31
+Beacon & Co (UK),IE,2026-12-31,fieldwork,113.9,2026-06-30
+Yellowfield LLP (EU),IE,2026-03-31,fieldwork,26.9,2026-12-31
+Kestrel Audit (UK),FR,2026-09-30,fieldwork,93.5,2026-12-31
+Summit Assurance (UK),CH,2026-12-31,complete,60.1,2026-09-30
+Vantage Audit (US),FR,2026-06-30,fieldwork,33.0,2026-06-30
+Granite Audit Group,IE,2026-03-31,planning,8.4,2026-03-31
+Zenith Assurance,ES,2026-09-30,complete,28.3,2026-06-30
+Kestrel Audit (US),IT,2026-03-31,complete,97.1,2026-06-30
+Fairview CPAs,,2026-06-30,complete,103.7,2026-03-31
+Ironoak Assurance,FR,2026-09-30,planning,99.8,2026-12-31
+Delta Assurance (EU),BE,2026-03-31,complete,55.6,2026-03-31
+Delta Assurance (EU),BE,2026-03-31,complete,55.6,2026-03-31
+Harborline LLP (US),FR,2026-12-31,fieldwork,57.0,2026-03-31
+GRANITE AUDIT GROUP,IE,2026-09-30,fieldwork,95.2,2026-03-31
+Oakfield LLP,DE,N/A,complete,61.5,2026-12-31
+Everest Advisory,FR,2026-03-31,review,0.6,2026-06-30
+Westbrook CPAs (EU),DE,2026-06-30,review,0.6,2026-06-30
+Northgate Assurance,FR,2026-12-31,planning,8.7,2026-12-31
+Oakfield LLP,IE,2026-06-30,review,103.3,2026-09-30
+Fairview CPAs,FR,2026-09-30,review,15.6,2026-06-30
+Granite Audit Group,DE,2026-06-30,review,59.7,2026-09-30
+Zenith Assurance,,,fieldwork,50.9,2026-12-31
+Lakeshore Partners,US,2026-12-31,planning,87.6,2026-06-30
+Summit Assurance,GB,2026-12-31,complete,55.8,2026-06-30
+Kestrel Audit (UK),FR,2026-03-31,planning,21.0,2026-03-31
+Delta Assurance,CH,2026-06-30,review,9.5,2026-09-30
+Umberline LLP,,2026-09-30,complete,30.3,2026-03-31
+Summit Assurance,,2026-06-30,fieldwork,20.2,2026-12-31
+  Beacon & Co (UK) ,US,2026-09-30,review,114.9,2026-09-30
+Oakfield LLP,IT,2026-03-31,planning,103.0,2026-03-31
+Pinnacle Audit Co (UK),ES,31/12/2026,fieldwork,19.3,2026-12-31
+Summit Assurance,ES,2026-03-31,fieldwork,10.1,2026-06-30
+Vantage Audit,CH,2026-06-30,fieldwork,56.3,2026-06-30
+Beacon & Co,CH,2026-06-30,review,32.1,2026-12-31
+Harborline LLP (EU),NL,2026-06-30,complete,54.6,2026-12-31
+Northgate Assurance,IT,2026-09-30,fieldwork,115.9,2026-06-30
+Everest Advisory,FR,2026-09-30,planning,29.8,2026-12-31
+Northgate Assurance,FR,2026-09-30,planning,69.0,2026-03-31
+Northgate Assurance,IT,2026-12-31,planning,26.5,2026-12-31
+Lakeshore Partners,BE,2026-12-31,planning,31.3,2026-06-30
+Harborline LLP (EU),NL,2026-06-30,complete,54.6,2026-12-31
+Lakeshore Partners (UK),GB,2026-03-31,fieldwork,74.6,2026-03-31
+Riverbend CPAs,,2026-03-31,complete,99.6,2026-03-31
+Yellowfield LLP,GB,2026-09-30,complete,98.8,2026-03-31
+Kestrel Audit,ES,2026-09-30,planning,28.2,2026-06-30
+Umberline LLP,CH,2026-09-30,complete,114.5,2026-12-31
+Zenith Assurance,IE,2026-03-31,review,45.6,2026-06-30
+Vantage Audit,US,2026-09-30,review,32.6,2026-12-31
+Northgate Assurance (UK),ES,2026-09-30,complete,108.8,2026-09-30
+Kestrel Audit,CH,2026-06-30,planning,94.0,2026-09-30
+Ironoak Assurance,US,2026-06-30,planning,9.0,2026-03-31
+Zenith Assurance (US),FR,2026-09-30,planning,38.7,2026-03-31
+Vantage Audit (UK),IT,31/12/2026,planning,89.4,2026-06-30
+Quarry & Stone,BE,Dec 31st,fieldwork,18.5,2026-03-31
+Summit Assurance (UK),DE,2026-09-30,planning,87.4,2026-06-30
+Summit Assurance,,2026-09-30,review,101.7,2026-09-30
+Everest Advisory,ES,2026-09-30,planning,23.4,2026-06-30
+Fairview CPAs (EU),BE,2026-03-31,planning,96.5,2026-03-31
+Harborline LLP,,2026-12-31,fieldwork,many,2026-09-30
+Harborline LLP,DE,2026-12-31,complete,66.9,2026-03-31
+Cedarwood LLP,US,2026-03-31,complete,43.6,2026-12-31
+Beacon & Co,BE,2026-12-31,review,19.2,2026-09-30
+Everest Advisory,FR,2026-09-30,fieldwork,10.3,2026-09-30
+Oakfield LLP (EU),BE,2026-09-30,complete,65.7,2026-03-31
+Ironoak Assurance (US),,2026-09-30,fieldwork,110.2,2026-06-30
+Yellowfield LLP,NL,2026-06-30,review,12.0,2026-03-31
+Riverbend CPAs,IT,2026-03-31,fieldwork,15.4,2026-09-30
+Vantage Audit,GB,2026-12-31,review,7.9,2026-06-30
+Meridian CPAs,IE,2026-09-30,review,104.3,2026-12-31
+Thornton & Vale (UK),IT,2026-06-30,complete,5.4,2026-12-31
+Granite Audit Group,DE,Dec 31st,planning,many,2026-12-31
