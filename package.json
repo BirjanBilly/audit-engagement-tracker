@@ -13,10 +13,10 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "seed:profile": "tsx scripts/profile-seed.ts",
-    "seed:ingest": "tsx scripts/ingest-seed.ts",
-    "auth:create-users": "tsx scripts/create-auth-users.ts",
-    "verify:counts": "tsx scripts/verify-counts.ts",
-    "verify:rls": "tsx scripts/verify-rls.ts"
+    "seed:ingest": "tsx --env-file=.env.local scripts/ingest-seed.ts",
+    "auth:create-users": "tsx --env-file=.env.local scripts/create-auth-users.ts",
+    "verify:counts": "tsx --env-file=.env.local scripts/verify-counts.ts",
+    "verify:rls": "tsx --env-file=.env.local scripts/verify-rls.ts"
   },
   "dependencies": {
     "@supabase/ssr": "^0.7.0",
