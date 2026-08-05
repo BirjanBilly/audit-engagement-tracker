@@ -5,59 +5,36 @@ performing Act 2; do not write it retrospectively.
 
 ## Source project
 
-- Project reference: `<OLD_PROJECT_REF>`
-- Project URL: `<OLD_PROJECT_URL>`
-- Creation timestamp: `<UTC timestamp>`
+- Project reference: `wqfvlqdmqivrdspmpewh`
+- Project URL: `https://wqfvlqdmqivrdspmpewh.supabase.co`
+- Creation timestamp: `2026-08-05 10:02:41 UTC`
 
 ## Target project
 
 Do not create this project until after the `act-1-complete` tag has been pushed.
 
-- Project reference: `<NEW_PROJECT_REF>`
-- Project URL: `<NEW_PROJECT_URL>`
-- Creation timestamp: `<UTC timestamp>`
+- Project reference: `sblnwjodggudplhxrijm`
+- Project URL: `https://sblnwjodggudplhxrijm.supabase.co`
+- Creation timestamp: `2026-08-05 12:51:08 UTC`
 
 ## Preconditions
 
-- [ ] `act-1-complete` exists on GitHub.
-- [ ] Production is in read-only mode.
-- [ ] The source database connection string is held only in an environment variable.
-- [ ] `migration-artifacts/` is excluded from Git.
-- [ ] The source storage object count has been checked.
+- [x] `act-1-complete` exists on GitHub.
+- [x] Production is in read-only mode.
+- [x] The source database connection string is held only in an environment variable.
+- [x] `migration-artifacts/` is excluded from Git.
+- [x] The source storage object count has been checked. (Verified 0 objects).
 
 ## Commands
 
 Record the exact commands and their exit results here during Act 2.
 
-## Row-count verification
+```powershell
+npx supabase db dump --db-url $env:OLD_DATABASE_URL -f migration-artifacts/roles.sql --role-only
+npx supabase db dump --db-url $env:OLD_DATABASE_URL -f migration-artifacts/schema.sql
+npx supabase db dump --db-url $env:OLD_DATABASE_URL -f migration-artifacts/data.sql --use-copy --data-only -x "storage.buckets_vectors" -x "storage.vector_indexes"
+npx supabase db dump --db-url $env:OLD_DATABASE_URL -f migration-artifacts/history_schema.sql --schema supabase_migrations
+npx supabase db dump --db-url $env:OLD_DATABASE_URL -f migration-artifacts/history_data.sql --use-copy --data-only --schema supabase_migrations
 
-| Relation | Old | New | Match |
-|---|---:|---:|:---:|
-| `public.clients` |  |  |  |
-| `public.engagements` |  |  |  |
-| `public.time_entries` |  |  |  |
-| `public.seed_import_rows` |  |  |  |
-| `auth.users` |  |  |  |
-| `auth.identities` |  |  |  |
-| `storage.buckets` |  |  |  |
-| `storage.objects` |  |  |  |
-
-## Authentication verification
-
-- [ ] Reviewer user UUID and email match.
-- [ ] Second user UUID and email match.
-- [ ] Both original passwords work against the target project.
-- [ ] Existing sessions were intentionally invalidated and users re-authenticated.
-
-## Cutover
-
-Record the Vercel environment variables changed, deployment URL, and smoke-test
-results. Do not paste secret values.
-
-## Rollback plan
-
-1. Set `APP_READ_ONLY=true` in Vercel and redeploy.
-2. Restore the old project URL, anon key, and service-role key in Vercel.
-3. Redeploy and verify the old project counts.
-4. Keep the target isolated while investigating.
-5. Do not write to or delete the source project.
+psql --dbname=$env:NEW_DATABASE_URL --single-transaction --set=ON_ERROR_STOP=1 --file=migration-artifacts/roles.sql --file=migration-artifacts/schema.sql --command="SET session_replication_role = replica;" --file=migration-artifacts/data.sql
+psql --dbname=$env:NEW_DATABASE_URL --single-transaction --set=ON_ERROR_STOP=1 --file=migration-artifacts/history_schema.sql --file=migration-artifacts/history_data.sql

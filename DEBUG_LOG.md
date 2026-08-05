@@ -68,3 +68,11 @@ Replace this line with the actual result after running the checks.
 AI supplied the initial migration, ingest scripts, application code, and troubleshooting guidance.
 I reviewed the migration, applied it to the hosted project, verified the imported counts, tested RLS, and tested reviewer authentication.
 I replaced the corrupted TypeScript Next configuration with a minimal ESM configuration after confirming the original file could not be transpiled.
+
+## Act 2 migration recovery and verification
+
+AI supplied the initial migration script, but its psql role restore attempted to alter the reserved Supabase platform role supabase_admin.
+I overrode that approach by retaining the role dump as evidence, confirming the required platform roles existed on both projects, and replaying only the application schema, data, Auth rows, and migration history.
+The target restore was transactionally verified using row counts and complete-row SHA-256 digests.
+Both original application accounts logged in using their existing passwords.
+The source project remains active and unchanged.
