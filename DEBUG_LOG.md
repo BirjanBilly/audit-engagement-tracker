@@ -76,3 +76,10 @@ I overrode that approach by retaining the role dump as evidence, confirming the 
 The target restore was transactionally verified using row counts and complete-row SHA-256 digests.
 Both original application accounts logged in using their existing passwords.
 The source project remains active and unchanged.
+
+## Act 3 API verification
+
+I verified API-key authentication, client cursor pagination, engagement filtering, client summaries, validation errors, idempotent time-entry replay, conflicting idempotency requests, rate limiting, OpenAPI and the handwritten API guide.
+
+Observed status codes included 401, 201, 409, 422 and 429.
+The repeated time-entry request returned the original response without creating a duplicate.
