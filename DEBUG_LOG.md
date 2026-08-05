@@ -97,3 +97,14 @@ Optimistic engagement status updates and rollback passed.
 The 375px layout had no horizontal overflow.
 Keyboard navigation and visible focus states passed.
 The fiscal-year-end urgency cue was visible and understandable.
+
+## Final Act 3 and Act 4 verification
+
+The API rate limit was tested in a fresh fixed window.
+HTTP 429 was observed after the permitted requests, with limit, remaining and reset headers.
+
+The Act 4 loading, first-run, no-results and friendly error states passed.
+Optimistic engagement status updates and server-failure rollback passed.
+The 375px layout had no horizontal overflow.
+Keyboard navigation and visible focus indicators passed.
+The fiscal-year-end urgency cue was visible and understandable.
