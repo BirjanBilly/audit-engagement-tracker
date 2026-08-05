@@ -58,3 +58,16 @@ must not appear in browser code, logs, screenshots, or documentation.
 
 Complete `MIGRATION.md`, replace `API_GUIDE.md`, and record all AI-assisted work
 in `DEBUG_LOG.md` as the assessment progresses.
+
+## Act 1 verification
+
+- Live app: https://audit-engagement-tracker.vercel.app
+- Seed input rows: 475
+- Canonical duplicates removed: 55
+- Clients: 388
+- Engagements: 420
+- Time entries: 401
+- Auth users: 2
+- The second ingest created zero duplicate records.
+- Hosted RLS verification passed.
+- Unit tests, lint, typecheck, and production build passed.

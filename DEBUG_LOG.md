@@ -62,3 +62,9 @@ npx supabase db reset
 **Outcome**
 
 Replace this line with the actual result after running the checks.
+
+## Act 1 implementation record
+
+AI supplied the initial migration, ingest scripts, application code, and troubleshooting guidance.
+I reviewed the migration, applied it to the hosted project, verified the imported counts, tested RLS, and tested reviewer authentication.
+I replaced the corrupted TypeScript Next configuration with a minimal ESM configuration after confirming the original file could not be transpiled.
