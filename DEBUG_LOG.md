@@ -83,3 +83,17 @@ I verified API-key authentication, client cursor pagination, engagement filterin
 
 Observed status codes included 401, 201, 409, 422 and 429.
 The repeated time-entry request returned the original response without creating a duplicate.
+
+## Act 4 UX implementation
+
+AI supplied the initial loading, empty, error, optimistic-update, responsive and accessibility implementation.
+I reviewed the changed actions and UI components and verified the production build before deployment.
+Manual verification covers first-run and no-results states, optimistic status rollback, 375px layout, keyboard navigation, visible focus and the fiscal-year-end urgency cue.
+
+## Act 4 manual verification result
+
+Loading, empty, no-results and friendly error states passed.
+Optimistic engagement status updates and rollback passed.
+The 375px layout had no horizontal overflow.
+Keyboard navigation and visible focus states passed.
+The fiscal-year-end urgency cue was visible and understandable.
